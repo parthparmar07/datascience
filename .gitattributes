@@ -1,0 +1,29 @@
+# Configure GitHub language detection to prioritize Python
+*.py linguist-language=Python
+*.ipynb linguist-language=Python
+
+# Exclude generated files and outputs from language statistics
+*.html linguist-generated=true
+*.png linguist-generated=true
+*.jpg linguist-generated=true
+*.jpeg linguist-generated=true
+*.gif linguist-generated=true
+*.svg linguist-generated=true
+
+# Specifically mark the large dashboard file as generated
+task2-unemployment/unemployment_dashboard.html linguist-generated=true
+
+# Mark data files as data, not code
+*.csv linguist-detectable=false
+*.txt linguist-detectable=false
+
+# Documentation files
+*.md linguist-documentation=true
+README.md linguist-documentation=true
+
+# Requirements files should not count towards language stats
+requirements.txt linguist-detectable=false
+
+# Analysis output files should not count
+**/analysis_report.txt linguist-generated=true
+**/*_outputs/ linguist-generated=true
