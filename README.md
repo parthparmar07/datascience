@@ -1,5 +1,7 @@
 # 🔬 Data Science Internship Project Portfolio
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=parthparmar07)](https://github.com/parthparmar07)
+
 A comprehensive data science internship project portfolio featuring four distinct machine learning and data analysis tasks, showcasing expertise in classification, regression, time series analysis, and data visualization.
 
 ## 📋 Project Overview
