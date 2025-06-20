@@ -1,6 +1,62 @@
 # 🔬 Data Science Internship Project Portfolio
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=parthparmar07)](https://github.com/parthparmar07)
+<div align="center">
+
+---
+
+## 🏆 Project Achievement Showcase 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=parthparmar07&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)](https://github.com/parthparmar07)
+
+---
+
+## 🏅 Project Mastery Badges 🏅
+
+| Project | Badge | Achievement | Performance |
+|:---:|:---:|:---:|:---:|
+| **Iris Classification** | <img src="https://img.shields.io/badge/🌸-Iris%20Master-success?style=for-the-badge" alt="Iris Master"> | Perfect 100% Accuracy | ![](https://img.shields.io/badge/Accuracy-100%25-brightgreen?style=flat-square) |
+| **Unemployment Analysis** | <img src="https://img.shields.io/badge/📈-Policy%20Analyst-blue?style=for-the-badge" alt="Policy Analyst"> | COVID Impact Insights | ![](https://img.shields.io/badge/Insights-Generated-success?style=flat-square) |
+| **Car Price Prediction** | <img src="https://img.shields.io/badge/🚗-Price%20Prophet-orange?style=for-the-badge" alt="Price Prophet"> | 85%+ R² Score | ![](https://img.shields.io/badge/R²-85%25+-orange?style=flat-square) |
+| **Sales Prediction** | <img src="https://img.shields.io/badge/💰-ROI%20Optimizer-purple?style=for-the-badge" alt="ROI Optimizer"> | Marketing Analytics | ![](https://img.shields.io/badge/ROI-Optimized-purple?style=flat-square) |
+
+---
+
+## ✨ Technical Excellence Badges ✨
+
+<div align="center">
+
+![Data Science](https://img.shields.io/badge/Data%20Science-Portfolio-blue?style=for-the-badge&logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Advanced-green?style=for-the-badge&logo=tensorflow)
+![Python](https://img.shields.io/badge/Python-3.8+-yellow?style=for-the-badge&logo=python)
+![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?style=for-the-badge&logo=pandas)
+![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-ML%20Models-orange?style=for-the-badge&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red?style=for-the-badge&logo=plotly)
+
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-green?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-4-brightgreen?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/ML%20Algorithms-15+-purple?style=for-the-badge)
+
+</div>
+
+---
+
+## 🎯 Performance Metrics Dashboard 🎯
+
+| Metric | Value | Status |
+|:---:|:---:|:---:|
+| **Total Projects** | 4 | ![](https://img.shields.io/badge/Complete-100%25-success?style=flat-square) |
+| **Algorithms Implemented** | 15+ | ![](https://img.shields.io/badge/Advanced-Expert-purple?style=flat-square) |
+| **Best Accuracy** | 100% | ![](https://img.shields.io/badge/Perfect-Score-gold?style=flat-square) |
+| **Code Quality** | Production | ![](https://img.shields.io/badge/Quality-A+-brightgreen?style=flat-square) |
+| **Documentation** | Comprehensive | ![](https://img.shields.io/badge/Docs-Complete-blue?style=flat-square) |
+
+---
+
+</div>
 
 A comprehensive data science internship project portfolio featuring four distinct machine learning and data analysis tasks, showcasing expertise in classification, regression, time series analysis, and data visualization.
 
@@ -20,6 +76,16 @@ This repository contains four complete data science projects developed during my
 
 ### Task 1: Iris Flower Classification 🌸
 **Directory**: `task1-iris/`
+
+<div align="left">
+  
+![Classification](https://img.shields.io/badge/Task-Classification-blue?style=flat-square)
+![Accuracy](https://img.shields.io/badge/Best%20Accuracy-100%25-success?style=flat-square)
+![Algorithms](https://img.shields.io/badge/Algorithms-6-orange?style=flat-square)
+![Dataset](https://img.shields.io/badge/Dataset-Iris-purple?style=flat-square)
+
+</div>
+
 - **Objective**: Multi-class classification of Iris flower species
 - **Dataset**: Classic Iris dataset (150 samples, 4 features)
 - **Algorithms**: Logistic Regression, Decision Tree, Random Forest, SVM, KNN, Naive Bayes
@@ -32,6 +98,16 @@ This repository contains four complete data science projects developed during my
 
 ### Task 2: Unemployment Analysis in India 📈
 **Directory**: `task2-unemployment/`
+
+<div align="left">
+  
+![Analysis](https://img.shields.io/badge/Task-Time%20Series%20Analysis-green?style=flat-square)
+![Impact](https://img.shields.io/badge/COVID--19-Impact%20Analysis-red?style=flat-square)
+![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-blue?style=flat-square)
+![Insights](https://img.shields.io/badge/Insights-Generated-success?style=flat-square)
+
+</div>
+
 - **Objective**: Analyze unemployment trends and COVID-19 impact
 - **Dataset**: India unemployment data with regional and temporal dimensions
 - **Analysis Type**: Time series analysis, regional comparison, statistical analysis
@@ -44,6 +120,16 @@ This repository contains four complete data science projects developed during my
 
 ### Task 3: Car Price Prediction 🚗
 **Directory**: `task3-carprice/`
+
+<div align="left">
+  
+![Regression](https://img.shields.io/badge/Task-Regression-orange?style=flat-square)
+![R² Score](https://img.shields.io/badge/Best%20R²-0.85+-success?style=flat-square)
+![Features](https://img.shields.io/badge/Features-Multiple-blue?style=flat-square)
+![Model](https://img.shields.io/badge/Best%20Model-Random%20Forest-green?style=flat-square)
+
+</div>
+
 - **Objective**: Predict car prices based on various features
 - **Dataset**: Car data with multiple features (brand, model, year, mileage, etc.)
 - **Algorithms**: Linear Regression, Random Forest, Gradient Boosting
@@ -56,6 +142,16 @@ This repository contains four complete data science projects developed during my
 
 ### Task 4: Sales Prediction & Analysis 💰
 **Directory**: `task4-sales/`
+
+<div align="left">
+  
+![Marketing](https://img.shields.io/badge/Task-Marketing%20Analytics-purple?style=flat-square)
+![ROI](https://img.shields.io/badge/ROI-Optimization-gold?style=flat-square)
+![Channels](https://img.shields.io/badge/Channels-3-blue?style=flat-square)
+![Business](https://img.shields.io/badge/Business-Insights-success?style=flat-square)
+
+</div>
+
 - **Objective**: Predict sales based on advertising spend across different channels
 - **Dataset**: Advertising data (TV, Radio, Newspaper spending vs Sales)
 - **Analysis Type**: Regression analysis, marketing analytics
